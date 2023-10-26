@@ -1,2 +1,6 @@
 plomada
 nivel
+escuadra
+compás
+mazo 
+cincel
