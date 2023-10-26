@@ -1,2 +1,4 @@
 plomada
 nivel
+escuadra
+compás
